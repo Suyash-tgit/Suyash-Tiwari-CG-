@@ -1,3 +1,5 @@
 vlans:
      red:
-     white:[0 1 2]
+     white:[0 1 2
+   ]
+   sdn:10.20.0.0
