@@ -1,0 +1,9 @@
+In this Module, I learned about -
+
+- Uml class diagram 
+- Uml use case diagram
+- Behavioral diagram
+- Collaboration diagram
+- State Transition diagram
+- Component diagram
+- Deployment diagram
