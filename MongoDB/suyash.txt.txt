@@ -1,0 +1,1 @@
+Day1- I learn't about NOSQL,MongoDB,Basic commands of MongoDB and Installation of MongoDB
