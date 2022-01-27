@@ -1,0 +1,3 @@
+Day1- I have learned about java, its installation,jdk,Intellij,basic commands like datatypes,etc.
+Day2- working on oops concepts and assignments.
+Day3-
